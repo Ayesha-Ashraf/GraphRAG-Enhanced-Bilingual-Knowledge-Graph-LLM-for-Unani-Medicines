@@ -1,0 +1,772 @@
+
+{
+  "single_hop": [
+    {
+      "instruction": "What is the botanical name of Gaozaban-e-Hindi?",
+      "input": "",
+      "output": "The botanical name of Gaozaban-e-Hindi is Onosma echioides.",
+      "type": "single-hop",
+      "herb": "Gaozaban-e-Hindi"
+    },
+        {
+      "instruction": "What is the temperament of Qust-e-Shireen?",
+      "input": "",
+      "output": "Qust-e-Shireen has a hot and dry temperament.",
+      "type": "single-hop",
+      "herb": "Qust-e-Shireen"
+    },
+    {
+      "instruction": "Which part of Gheekwar is used?",
+      "input": "",
+      "output": "The gel of Gheekwar (Aloe Vera) is used.",
+      "type": "single-hop",
+      "herb": "Gheekwar"
+    },
+    {
+      "instruction": "List the main active ingredient in Karanj.",
+      "input": "",
+      "output": "The main active ingredient in Karanj is karanjin.",
+      "type": "single-hop",
+      "herb": "Karanj"
+    },
+    {
+      "instruction": "What diseases is Chobchini used for?",
+      "input": "",
+      "output": "Chobchini is used for syphilis and psoriasis.",
+      "type": "single-hop",
+      "herb": "Chobchini"
+    },
+    {
+      "instruction": "What is the dosage form for Gilo?",
+      "input": "",
+      "output": "Gilo is used as a 5-10g decoction.",
+      "type": "single-hop",
+      "herb": "Gilo"
+    },
+    {
+      "instruction": "What symptoms does Hara Singhar relieve?",
+      "input": "",
+      "output": "Hara Singhar relieves joint swelling and pain.",
+      "type": "single-hop",
+      "herb": "Hara Singhar"
+    },
+    {
+      "instruction": "What is the primary use of Jatamansi?",
+      "input": "",
+      "output": "Jatamansi is primarily used for insomnia and stress.",
+      "type": "single-hop",
+      "herb": "Jatamansi"
+    },
+    {
+      "instruction": "What is the temperament of Kutki?",
+      "input": "",
+      "output": "Kutki has a cold and dry temperament.",
+      "type": "single-hop",
+      "herb": "Kutki"
+    },
+    {
+      "instruction": "How is Mulethi typically administered?",
+      "input": "",
+      "output": "Mulethi is typically administered as 3-5g chew sticks.",
+      "type": "single-hop",
+      "herb": "Mulethi"
+    },
+    {
+      "instruction": "What is Nankhwa effective against?",
+      "input": "",
+      "output": "Nankhwa is effective against indigestion and colic.",
+      "type": "single-hop",
+      "herb": "Nankhwa"
+    },
+    {
+      "instruction": "For which organ-related issue is Pashanbhed famous?",
+      "input": "",
+      "output": "Pashanbhed is famous for treating kidney stones.",
+      "type": "single-hop",
+      "herb": "Pashanbhed"
+    },
+    {
+      "instruction": "How is Ratanjot applied?",
+      "input": "",
+      "output": "Ratanjot is applied as a topical paste.",
+      "type": "single-hop",
+      "herb": "Ratanjot"
+    },
+    {
+      "instruction": "What group of disorders does Shatavari treat?",
+      "input": "",
+      "output": "Shatavari treats female disorders.",
+      "type": "single-hop",
+      "herb": "Shatavari"
+    },
+    {
+      "instruction": "What are the main constituents of Talispatra?",
+      "input": "",
+      "output": "The main constituents of Talispatra are essential oils.",
+      "type": "single-hop",
+      "herb": "Talispatra"
+    },
+    {
+      "instruction": "What is the typical dosage of Ushba powder?",
+      "input": "",
+      "output": "The typical dosage of Ushba powder is 1-2g.",
+      "type": "single-hop",
+      "herb": "Ushba"
+    },
+    {
+      "instruction": "What type of infections does Vidanga treat?",
+      "input": "",
+      "output": "Vidanga treats worm infections.",
+      "type": "single-hop",
+      "herb": "Vidanga"
+    },
+    {
+      "instruction": "What is the Urdu name for Glycyrrhiza glabra?",
+      "input": "",
+      "output": "The Urdu name for Glycyrrhiza glabra is Asl-us-Soos or Mulethi.",
+      "type": "single-hop",
+      "herb": "Glycyrrhiza glabra"
+    },
+    {
+      "instruction": "What is Zanjabeel used to alleviate?",
+      "input": "",
+      "output": "Zanjabeel is used to alleviate nausea and cold.",
+      "type": "single-hop",
+      "herb": "Zanjabeel"
+    },
+    {
+      "instruction": "Which acid is found in Arjun?",
+      "input": "",
+      "output": "Arjunolic acid is found in Arjun.",
+      "type": "single-hop",
+      "herb": "Arjun"
+    },
+    {
+      "instruction": "Is Bakuchi used topically or internally?",
+      "input": "",
+      "output": "Bakuchi is used topically, as an oil.",
+      "type": "single-hop",
+      "herb": "Bakuchi"
+    },
+    {
+      "instruction": "What is the whole plant of Chirata used for?",
+      "input": "",
+      "output": "The whole plant of Chirata is used for fever and malaria.",
+      "type": "single-hop",
+      "herb": "Chirata"
+    },
+    {
+      "instruction": "How is Daruhaldi used for eye infections?",
+      "input": "",
+      "output": "Daruhaldi is used as eye drops for eye infections.",
+      "type": "single-hop",
+      "herb": "Daruhaldi"
+    },
+    {
+      "instruction": "What two main issues does Gokhru address?",
+      "input": "",
+      "output": "Gokhru addresses urinary issues and libido.",
+      "type": "single-hop",
+      "herb": "Gokhru"
+    },
+    {
+      "instruction": "What are the fruits of Hapusha used for?",
+      "input": "",
+      "output": "The fruits of Hapusha are used for UTI and arthritis.",
+      "type": "single-hop",
+      "herb": "Hapusha"
+    },
+    {
+      "instruction": "What is the key component in Ilaichi?",
+      "input": "",
+      "output": "The key component in Ilaichi is cineole.",
+      "type": "single-hop",
+      "herb": "Ilaichi"
+    },
+    {
+      "instruction": "How is Jau prepared for urinary stones?",
+      "input": "",
+      "output": "Jau is boiled (50g) for urinary stones.",
+      "type": "single-hop",
+      "herb": "Jau"
+    },
+    {
+      "instruction": "What does Kamala treat?",
+      "input": "",
+      "output": "Kamala treats worm infections.",
+      "type": "single-hop",
+      "herb": "Kamala"
+    },
+    {
+      "instruction": "For which psychological symptom is Lajwanti used?",
+      "input": "",
+      "output": "Lajwanti is used for anxiety.",
+      "type": "single-hop",
+      "herb": "Lajwanti"
+    },
+    {
+      "instruction": "What is the Urdu name for Matricaria chamomilla?",
+      "input": "",
+      "output": "The Urdu name for Matricaria chamomilla is Babuna.",
+      "type": "single-hop",
+      "herb": "Matricaria chamomilla"
+    },
+    {
+      "instruction": "When should Habb-e-Sahil be taken?",
+      "input": "",
+      "output": "Habb-e-Sahil should be taken at night (2-3g).",
+      "type": "single-hop",
+      "herb": "Habb-e-Sahil"
+    },
+    {
+      "instruction": "What is Post Kalan useful for in terms of metabolic disorder?",
+      "input": "",
+      "output": "Post Kalan is useful for diabetes.",
+      "type": "single-hop",
+      "herb": "Post Kalan"
+    },
+    {
+      "instruction": "What are the leaves of Barg-e-Neem used for?",
+      "input": "",
+      "output": "The leaves of Barg-e-Neem are used for skin diseases and fever.",
+      "type": "single-hop",
+      "herb": "Barg-e-Neem"
+    },
+    {
+      "instruction": "What is the active compound in Filfil Siyah?",
+      "input": "",
+      "output": "The active compound in Filfil Siyah is piperine.",
+      "type": "single-hop",
+      "herb": "Filfil Siyah"
+    },
+    {
+      "instruction": "What is the temperament of Badiyan?",
+      "input": "",
+      "output": "Badiyan has a hot and wet temperament.",
+      "type": "single-hop",
+      "herb": "Badiyan"
+    },
+    {
+      "instruction": "How is Haldi commonly consumed with its powder?",
+      "input": "",
+      "output": "Haldi powder (1-3g) is commonly consumed with honey.",
+      "type": "single-hop",
+      "herb": "Haldi"
+    },
+    {
+      "instruction": "What fresh part of Pudina is used?",
+      "input": "",
+      "output": "Fresh leaves (5-10g) of Pudina are used.",
+      "type": "single-hop",
+      "herb": "Pudina"
+    },
+    {
+      "instruction": "What vitamin is Amla rich in?",
+      "input": "",
+      "output": "Amla is rich in Vitamin C.",
+      "type": "single-hop",
+      "herb": "Amla"
+    },
+    {
+      "instruction": "How is Zafran administered?",
+      "input": "",
+      "output": "Zafran is administered with milk (50-100mg).",
+      "type": "single-hop",
+      "herb": "Zafran"
+    },
+    {
+      "instruction": "What is the primary use of Asl-us-Soos?",
+      "input": "",
+      "output": "The primary use of Asl-us-Soos is for cough and sore throat.",
+      "type": "single-hop",
+      "herb": "Asl-us-Soos"
+    },
+    {
+      "instruction": "What organ disorders does Tukhm-e-Kasoos treat?",
+      "input": "",
+      "output": "Tukhm-e-Kasoos treats liver disorders.",
+      "type": "single-hop",
+      "herb": "Tukhm-e-Kasoos"
+    },
+    {
+      "instruction": "What is Gule-Surkh used to prepare?",
+      "input": "",
+      "output": "Gule-Surkh is used to prepare rose water (5g).",
+      "type": "single-hop",
+      "herb": "Gule-Surkh"
+    },
+    {
+      "instruction": "What is Kalonji used for in respiratory conditions?",
+      "input": "",
+      "output": "Kalonji is used for asthma.",
+      "type": "single-hop",
+      "herb": "Kalonji"
+    },
+    {
+      "instruction": "What aspect of health does Gaozaban support?",
+      "input": "",
+      "output": "Gaozaban supports heart health.",
+      "type": "single-hop",
+      "herb": "Gaozaban"
+    },
+    {
+      "instruction": "What sensations does Sandal treat?",
+      "input": "",
+      "output": "Sandal treats burning sensations.",
+      "type": "single-hop",
+      "herb": "Sandal"
+    },
+    {
+      "instruction": "What are the fruits of Habb-ul-Aas used for?",
+      "input": "",
+      "output": "The fruits of Habb-ul-Aas are used for UTI and diarrhea.",
+      "type": "single-hop",
+      "herb": "Habb-ul-Aas"
+    },
+    {
+      "instruction": "How is Murmakki consumed?",
+      "input": "",
+      "output": "Murmakki is consumed as 1g powder with water.",
+      "type": "single-hop",
+      "herb": "Murmakki"
+    },
+    {
+      "instruction": "What neurological condition is Baqla used for?",
+      "input": "",
+      "output": "Baqla is used for Parkinson's weakness.",
+      "type": "single-hop",
+      "herb": "Baqla"
+    },
+    {
+      "instruction": "What is the key difference between Darchini and Post Kalan?",
+      "input": "",
+      "output": "Darchini and Post Kalan are both from cinnamon species but may refer to different variants (e.g., Cinnamomum zeylanicum vs. Cinnamomum cassia); both are hot and dry and used for cold/fatigue.",
+      "type": "single-hop",
+      "herb": "Darchini and Post Kalan"
+    },
+    {
+      "instruction": "What is the latex of Bargad used with?",
+      "input": "",
+      "output": "The latex of Bargad is used with milk.",
+      "type": "single-hop",
+      "herb": "Bargad"
+    },
+    {
+      "instruction": "When is Kahu powder taken?",
+      "input": "",
+      "output": "Kahu powder is taken at night.",
+      "type": "single-hop",
+      "herb": "Kahu"
+    },
+    {
+      "instruction": "What type of cough does Khatmi treat?",
+      "input": "",
+      "output": "Khatmi treats dry cough.",
+      "type": "single-hop",
+      "herb": "Khatmi"
+    }
+  ],
+  "multi_hop": [
+    {
+      "instruction": "Compare the uses of Pashanbhed and Gokhru for urinary issues, including their temperature natures.",
+      "input": "",
+      "output": "Pashanbhed (cold and dry 1°) is used for kidney stones while Gokhru (hot and dry 1°) is used for general urinary issues and libido.",
+      "type": "multi-hop",
+      "herbs": ["Pashanbhed", "Gokhru"]
+    },
+    {
+      "instruction": "Which herb would be better for respiratory issues: Talispatra or Vasa, considering their active compounds?",
+      "input": "",
+      "output": "Talispatra (essential oils) is better for bronchitis while Vasa (vasicine) is better for asthma and wheezing.",
+      "type": "multi-hop",
+      "herbs": ["Talispatra", "Vasa"]
+    },
+    {
+      "instruction": "Compare the temperature natures and digestive benefits of Nankhwa and Ilaichi.",
+      "input": "",
+      "output": "Nankhwa (hot and dry 2°) treats indigestion and colic while Ilaichi (hot and wet 1°) treats general digestive issues and bad breath.",
+      "type": "multi-hop",
+      "herbs": ["Nankhwa", "Ilaichi"]
+    },
+    {
+      "instruction": "Which combination would be more effective for joint pain: Qust-e-Shireen with Murmakki or Rasna with Sandal?",
+      "input": "",
+      "output": "Qust-e-Shireen with Murmakki would be more effective as Qust treats rheumatism while Murmakki reduces swelling in arthritic joints.",
+      "type": "multi-hop",
+      "herbs": ["Qust-e-Shireen", "Murmakki", "Rasna", "Sandal"]
+    },
+    {
+      "instruction": "Compare the liver-protective properties of Kutki, Aftimun, and Tukhm-e-Kasoos.",
+      "input": "",
+      "output": "Kutki is best for jaundice, Aftimun for liver congestion, and Tukhm-e-Kasoos for general liver weakness - all have cold temperament.",
+      "type": "multi-hop",
+      "herbs": ["Kutki", "Aftimun", "Tukhm-e-Kasoos"]
+    },
+    {
+      "instruction": "Design a treatment protocol for chronic bronchitis with anxiety using Unani herbs.",
+      "input": "",
+      "output": "Morning: Talispatra 3g decoction for bronchitis, Afternoon: Jatamansi 2g powder for anxiety, Evening: Ustukhuddus 3g infusion for respiratory relaxation.",
+      "type": "multi-hop",
+      "herbs": ["Talispatra", "Jatamansi", "Ustukhuddus"]
+    },
+    {
+      "instruction": "Compare the mechanisms of action for Gokhru and Safed Musli in male reproductive health.",
+      "input": "",
+      "output": "Gokhru works via protodioscin for libido enhancement while Safed Musli uses saponins for spermatogenesis improvement.",
+      "type": "multi-hop",
+      "herbs": ["Gokhru", "Safed Musli"]
+    },
+    {
+      "instruction": "Which Himalayan herbs would be most appropriate for altitude sickness and why?",
+      "input": "",
+      "output": "Ood-e-Kashmiri (for fever), Chob-e-Chini-e-Himalaya (for digestion), and Narjeel-e-Himalaya (for hydration) are most effective for altitude sickness.",
+      "type": "multi-hop",
+      "herbs": ["Ood-e-Kashmiri", "Chob-e-Chini-e-Himalaya", "Narjeel-e-Himalaya"]
+    },
+    {
+      "instruction": "Compare the wound-healing properties of Ratanjot and Murmakki including preparation methods.",
+      "input": "",
+      "output": "Ratanjot (alkannin) as topical paste for inflammation vs Murmakki (furanoeudesma) as 1g powder with water for infected wounds with pus.",
+      "type": "multi-hop",
+      "herbs": ["Ratanjot", "Murmakki"]
+    },
+    {
+      "instruction": "Design a women's health tonic for perimenopausal symptoms considering temperature compatibility.",
+      "input": "",
+      "output": "Base: Shatavari Khass (cold/wet) 3g, Add: Draksha 10 grapes for night sweats, Gaozaban-e-Rumi (hot/wet) 3g infusion for hormonal balance.",
+      "type": "multi-hop",
+      "herbs": ["Shatavari Khass", "Draksha", "Gaozaban-e-Rumi"]
+    },
+    {
+      "instruction": "Compare the gastrointestinal effects of Haritaki and Sana Makki including contraindications.",
+      "input": "",
+      "output": "Haritaki regulates both diarrhea/constipation safely while Sana Makki (sennosides) is a stronger laxative contraindicated in pregnancy.",
+      "type": "multi-hop",
+      "herbs": ["Haritaki", "Sana Makki"]
+    },
+    {
+      "instruction": "Which combination would better address metabolic syndrome: Gudmar and Guggul or Daruhaldi and Haridra?",
+      "input": "",
+      "output": "Gudmar (gymnemic acid) and Guggul (guggulsterone) are superior as they address both sugar and lipid metabolism.",
+      "type": "multi-hop",
+      "herbs": ["Gudmar", "Guggul", "Daruhaldi", "Haridra"]
+    },
+    {
+      "instruction": "Design a pediatric sleep formula using mild Unani herbs with dosages.",
+      "input": "",
+      "output": "Evening: Gule-Nilofer 3g infusion, Bedtime: Zafran-e-Lateef 10mg with milk, Topical: Sandal 1% paste on forehead.",
+      "type": "multi-hop",
+      "herbs": ["Gule-Nilofer", "Zafran-e-Lateef", "Sandal"]
+    },
+    {
+      "instruction": "Compare the respiratory benefits of Ushba-e-Hindi and Ushba-e-Rumi for different cough types.",
+      "input": "",
+      "output": "Ushba-e-Hindi (Inula racemosa) is better for bronchospasm while Ushba-e-Rumi (Inula helenium) is superior for whooping cough with phlegm.",
+      "type": "multi-hop",
+      "herbs": ["Ushba-e-Hindi", "Ushba-e-Rumi"]
+    },
+    {
+      "instruction": "What are three herbs with adaptogenic properties and their specific stress-related mechanisms?",
+      "input": "",
+      "output": "1. Ashwagandha (withanolides) for general stress 2. Jatamansi (jatamansone) for anxiety 3. Tulsi (eugenol) for cortisol regulation.",
+      "type": "multi-hop",
+      "herbs": ["Ashwagandha", "Jatamansi", "Tulsi"]
+    },
+    {
+      "instruction": "Compare the hepatoprotective herbs from desert vs Himalayan regions with examples.",
+      "input": "",
+      "output": "Desert: Tukhm-e-Sahra (hot) for jaundice; Himalayan: Kutki (cold) for viral hepatitis via different active compounds.",
+      "type": "multi-hop",
+      "herbs": ["Tukhm-e-Sahra", "Kutki"]
+    },
+    {
+      "instruction": "Design a seasonal regimen for spring allergies using Unani herbs with timing.",
+      "input": "",
+      "output": "Morning: Qust-e-Bahar 1g for allergies, Noon: Haldi-e-Bahar 1g with honey, Night: Zafran 10mg with milk for histamine regulation.",
+      "type": "multi-hop",
+      "herbs": ["Qust-e-Bahar", "Haldi-e-Bahar", "Zafran"]
+    },
+    {
+      "instruction": "Compare the neuroprotective effects of Jyotishmati and Shankhapushpi including active compounds.",
+      "input": "",
+      "output": "Jyotishmati (celastrine) has stronger neuroregenerative effects while Shankhapushpi is better for daily cognitive support.",
+      "type": "multi-hop",
+      "herbs": ["Jyotishmati", "Shankhapushpi"]
+    },
+    {
+      "instruction": "Design a protocol for diabetic neuropathy considering both glycemic control and nerve pain.",
+      "input": "",
+      "output": "Morning: Gudmar 2g for sugar, Noon: Daruhaldi 1g decoction for nerves, Evening: Eranda 3g paste for neuropathic pain.",
+      "type": "multi-hop",
+      "herbs": ["Gudmar", "Daruhaldi", "Eranda"]
+    },
+    {
+      "instruction": "Compare the differences between white and black Kalonji in terms of chemical composition and uses.",
+      "input": "",
+      "output": "White Kalonji (himalayanin) for immunity vs Black Kalonji (thymoquinone) for autoimmune conditions and diabetes management.",
+      "type": "multi-hop",
+      "herbs": ["Kalonji"]
+    },
+    {
+      "instruction": "Design a comprehensive anti-aging protocol combining cellular repair and neuroprotection.",
+      "input": "",
+      "output": "Morning: Amalaki Muqawwi 3g for cellular repair, Noon: Shilajit Bala 500mg for minerals, Night: Zafran 50mg for neuroprotection.",
+      "type": "multi-hop",
+      "herbs": ["Amalaki Muqawwi", "Shilajit Bala", "Zafran"]
+    },
+    {
+      "instruction": "Compare the cardiovascular benefits of Arjun and Yashtimadhu including their mechanisms.",
+      "input": "",
+      "output": "Arjun (arjunolic acid) strengthens heart muscle while Yashtimadhu (glycyrrhizin) is better for cough associated with cardiac conditions.",
+      "type": "multi-hop",
+      "herbs": ["Arjun", "Yashtimadhu"]
+    },
+    {
+      "instruction": "Design a detox protocol for heavy metal exposure using traditional herbs with administration methods.",
+      "input": "",
+      "output": "Morning: Aarqeel-e-Siyah 3g detox paste, Noon: Coriander water with Amla 3g, Night: Tukhm-e-Kasoos 3g powder for liver support.",
+      "type": "multi-hop",
+      "herbs": ["Aarqeel-e-Siyah", "Amla", "Tukhm-e-Kasoos"]
+    },
+    {
+      "instruction": "Compare the antimicrobial spectra of Lasan and Qaranfal for different infections.",
+      "input": "",
+      "output": "Lasan (allicin) has broad-spectrum antibacterial/viral action while Qaranfal (eugenol) has stronger localized action against dental pathogens.",
+      "type": "multi-hop",
+      "herbs": ["Lasan", "Qaranfal"]
+    },
+    {
+      "instruction": "What are three cold-temperament herbs for liver disorders and their specific preparation methods?",
+      "input": "",
+      "output": "1. Kutki (500mg-1g powder) 2. Aftimun (3-5g decoction) 3. Tukhm-e-Kasoos (3-5g powder) - all should be taken with honey to balance coldness.",
+      "type": "multi-hop",
+      "herbs": ["Kutki", "Aftimun", "Tukhm-e-Kasoos"]
+    },
+    {
+      "instruction": "Design a topical formulation for psoriatic lesions using traditional herbs with percentages.",
+      "input": "",
+      "output": "Combine Bakuchi oil (Psoralea corylifolia) 10% for repigmentation, Karanj oil (Pongamia pinnata) 5% for lesions, and Sandal paste (Santalum album) 1% for inflammation.",
+      "type": "multi-hop",
+      "herbs": ["Bakuchi", "Karanj", "Sandal"]
+    },
+    {
+      "instruction": "Compare the respiratory benefits of Talispatra and Vasa including their temperature natures.",
+      "input": "",
+      "output": "Talispatra (hot/dry 1°) with essential oils for bronchitis vs Vasa (cold/dry 2°) with vasicine for wheezing and shortness of breath.",
+      "type": "multi-hop",
+      "herbs": ["Talispatra", "Vasa"]
+    },
+    {
+      "instruction": "Which herbs would form a complete protocol for Parkinson's disease management with timing?",
+      "input": "",
+      "output": "Morning: Baqla 10g cooked for levodopa, Noon: Kapikachhu 3g for dopamine, Night: Ashwagandha 3g with milk for neuroprotection.",
+      "type": "multi-hop",
+      "herbs": ["Baqla", "Kapikachhu", "Ashwagandha"]
+    },
+     {
+        "instruction": "Compare the effects of Qust-e-Shireen and Ushba for asthma treatment, considering their active compounds.",
+        "input": "",
+        "output": "Qust-e-Shireen (costuslactone) is better for wheezing while Ushba (alantolactone) is more effective for chest tightness and spasms.",
+        "type": "multi-hop",
+        "herbs": [
+            "Qust-e-Shireen",
+            "Ushba"
+        ]
+    },
+    {
+        "instruction": "Which herb combination would be more effective for skin diseases: Karanj with Bakuchi or Neem with Ratanjot?",
+        "input": "",
+        "output": "Karanj with Bakuchi is superior for chronic skin conditions like psoriasis, while Neem with Ratanjot works better for acute inflammation and wounds.",
+        "type": "multi-hop",
+        "herbs": [
+            "Karanj",
+            "Bakuchi",
+            "Neem",
+            "Ratanjot"
+        ]
+    },
+    {
+        "instruction": "Compare the digestive benefits of Nankhwa and Badiyan, including their temperature natures.",
+        "input": "",
+        "output": "Nankhwa (hot/dry 2°) treats indigestion and colic specifically, while Badiyan (hot/wet 1°) is better for general gas and bloating.",
+        "type": "multi-hop",
+        "herbs": [
+            "Nankhwa",
+            "Badiyan"
+        ]
+    },
+    {
+        "instruction": "Design a protocol for chronic liver congestion using three cold-temperament herbs with dosages.",
+        "input": "",
+        "output": "Morning: Kutki 500mg powder, Afternoon: Aftimun 3g decoction, Evening: Tukhm-e-Kasoos 3g powder - all with honey to balance coldness.",
+        "type": "multi-hop",
+        "herbs": [
+            "Kutki",
+            "Aftimun",
+            "Tukhm-e-Kasoos"
+        ]
+    },
+    {
+        "instruction": "Compare the neurological effects of Bisfaij and Habb-e-Qilqil for paralysis treatment.",
+        "input": "",
+        "output": "Bisfaij (alkaloids) is better for nervous disorders with tremors, while Habb-e-Qilqil (picrotoxin) is more effective for severe paralysis and epilepsy.",
+        "type": "multi-hop",
+        "herbs": [
+            "Bisfaij",
+            "Habb-e-Qilqil"
+        ]
+    },
+    {
+        "instruction": "Which combination would be better for rheumatoid arthritis: Guggul with Ashwagandha or Shallaki with Rasna?",
+        "input": "",
+        "output": "Guggul with Ashwagandha provides better systemic anti-inflammatory effects, while Shallaki with Rasna is superior for localized joint pain.",
+        "type": "multi-hop",
+        "herbs": [
+            "Guggul",
+            "Ashwagandha",
+            "Shallaki",
+            "Rasna"
+        ]
+    },
+    {
+        "instruction": "Compare the female reproductive benefits of Shatavari and Lodhra, including their preparation methods.",
+        "input": "",
+        "output": "Shatavari (5-10g powder) is better for hormonal balance and lactation, while Lodhra (3g powder) is superior for leucorrhea and menstrual irregularities.",
+        "type": "multi-hop",
+        "herbs": [
+            "Shatavari",
+            "Lodhra"
+        ]
+    },
+    {
+        "instruction": "Design a seasonal protocol for winter respiratory issues using three hot-temperament herbs.",
+        "input": "",
+        "output": "Morning: Talispatra 3g decoction, Afternoon: Darchini 1g powder, Night: Sonth 500mg powder with honey - all hot-natured herbs for cold weather.",
+        "type": "multi-hop",
+        "herbs": [
+            "Talispatra",
+            "Darchini",
+            "Sonth"
+        ]
+    },
+    {
+        "instruction": "Compare the cardiovascular effects of Arjun and Gaozaban, including their active compounds.",
+        "input": "",
+        "output": "Arjun (arjunolic acid) strengthens heart muscle directly, while Gaozaban (gamma-linolenic acid) is better for palpitations and anxiety-related heart issues.",
+        "type": "multi-hop",
+        "herbs": [
+            "Arjun",
+            "Gaozaban"
+        ]
+    },
+    {
+        "instruction": "Which desert-adapted herbs would be most effective for heat stroke and dehydration?",
+        "input": "",
+        "output": "Aqaqia-e-Sahra for immediate rehydration, Narjeel-e-Sahra for electrolyte balance, and Rasna-e-Sahra for fever reduction are most effective.",
+        "type": "multi-hop",
+        "herbs": [
+            "Aqaqia-e-Sahra",
+            "Narjeel-e-Sahra",
+            "Rasna-e-Sahra"
+        ]
+    },
+    {
+        "instruction": "Compare the pediatric applications of Asl-us-Soos Pediatric and Babuna-e-Saghir.",
+        "input": "",
+        "output": "Asl-us-Soos Pediatric (1-2g chew stick) is for mild childhood cough, while Babuna-e-Saghir (2g weak tea) is better for colic and teething discomfort.",
+        "type": "multi-hop",
+        "herbs": [
+            "Asl-us-Soos Pediatric",
+            "Babuna-e-Saghir"
+        ]
+    },
+    {
+        "instruction": "Design a comprehensive protocol for diabetes management using three herbs with timing.",
+        "input": "",
+        "output": "Morning: Gudmar 2g powder, Afternoon: Jamun leaves 3g decoction, Evening: Kalonji 1g with honey - all before meals for glycemic control.",
+        "type": "multi-hop",
+        "herbs": [
+            "Gudmar",
+            "Jamun",
+            "Kalonji"
+        ]
+    },
+    {
+        "instruction": "Compare the anti-aging properties of Amalaki and Shilajit, including their mechanisms.",
+        "input": "",
+        "output": "Amalaki (vitamin C) provides antioxidant cellular protection, while Shilajit (fulvic acid) offers mineral replenishment and mitochondrial support.",
+        "type": "multi-hop",
+        "herbs": [
+            "Amalaki",
+            "Shilajit"
+        ]
+    },
+    {
+        "instruction": "Which Himalayan herbs would be most effective for altitude-induced headaches and nausea?",
+        "input": "",
+        "output": "Kafoor-e-Himalaya 0.2% balm topically for headaches, Luk-e-Himalaya 500mg powder for nausea, and Narjeel-e-Himalaya 100ml water for hydration.",
+        "type": "multi-hop",
+        "herbs": [
+            "Kafoor-e-Himalaya",
+            "Luk-e-Himalaya",
+            "Narjeel-e-Himalaya"
+        ]
+    },
+    {
+        "instruction": "Compare the wound healing properties of Gheekwar and Chandana, including preparation methods.",
+        "input": "",
+        "output": "Gheekwar (aloin gel) is better for fresh burns applied topically, while Chandana (santalol) as 3% wash is superior for infected wounds.",
+        "type": "multi-hop",
+        "herbs": [
+            "Gheekwar",
+            "Chandana"
+        ]
+    },
+    {
+        "instruction": "Design a women's health tonic for menstrual irregularities using three herbs.",
+        "input": "",
+        "output": "Morning: Ashoka 3g decoction for heavy bleeding, Afternoon: Shatavari 5g powder for hormonal balance, Evening: Lodhra 3g powder for discharge.",
+        "type": "multi-hop",
+        "herbs": [
+            "Ashoka",
+            "Shatavari",
+            "Lodhra"
+        ]
+    },
+    {
+        "instruction": "Compare the gastrointestinal effects of Haritaki and Sana Makki, including contraindications.",
+        "input": "",
+        "output": "Haritaki regulates both diarrhea and constipation safely, while Sana Makki (sennosides) is a stronger laxative contraindicated in pregnancy.",
+        "type": "multi-hop",
+        "herbs": [
+            "Haritaki",
+            "Sana Makki"
+        ]
+    },
+    {
+        "instruction": "Which combination would better address chronic fatigue: Ashwagandha and Kapikachhu or Pippali and Guduchi?",
+        "input": "",
+        "output": "Ashwagandha and Kapikachhu are superior for neurological fatigue, while Pippali and Guduchi work better for digestion-related fatigue.",
+        "type": "multi-hop",
+        "herbs": [
+            "Ashwagandha",
+            "Kapikachhu",
+            "Pippali",
+            "Guduchi"
+        ]
+    },
+    {
+        "instruction": "Design a pediatric sleep formula using mild Unani herbs with dosages.",
+        "input": "",
+        "output": "Evening: Gule-Nilofer 3g infusion, Bedtime: Zafran-e-Lateef 10mg with milk, Topical: Sandal 1% paste on forehead for relaxation.",
+        "type": "multi-hop",
+        "herbs": [
+            "Gule-Nilofer",
+            "Zafran-e-Lateef",
+            "Sandal"
+        ]
+    }
+    
+  ]
+}
+    
