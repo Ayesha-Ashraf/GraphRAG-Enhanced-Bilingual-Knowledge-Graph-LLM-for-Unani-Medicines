@@ -168,8 +168,6 @@ Each bilingual node stores a `language` property to distinguish English and Urdu
 (Urdu entity)-[:TRANSLATES_TO]->(English counterpart)
 ```
 
-The construction notebook also creates uniqueness constraints and full-text/language indexes to support reliable graph creation and retrieval.
-
 ---
 
 ## Translation Pipeline
@@ -221,11 +219,6 @@ export NEO4J_USER="neo4j"
 export NEO4J_PASSWORD="YOUR_PASSWORD"
 ```
 
-For notebook environments such as Google Colab, set the same values securely in environment variables or notebook secrets.
-
-**Do not commit Neo4j passwords, Hugging Face tokens, or other credentials to GitHub.**
-
-The Neo4j construction notebook currently contains credential placeholders that should be populated securely before execution.
 
 ### Building the graph
 
@@ -243,14 +236,6 @@ The Neo4j construction notebook currently contains credential placeholders that 
 
 3. Configure the Neo4j connection.
 
-4. Run:
-   - constraint creation,
-   - index creation,
-   - node creation,
-   - relationship creation,
-   - graph statistics.
-
----
 
 ## GraphRAG Retrieval
 
@@ -401,11 +386,7 @@ with a list of samples containing at least:
 ]
 ```
 
-### Reproducibility note
 
-`unani_train_en_ur.json` is referenced by both fine-tuning notebooks but is **not present in the supplied implementation archive**. To reproduce the fine-tuning stage exactly, add this training JSON to the public repository or document how it is generated from the released data.
-
----
 
 ## Running Fine-Tuning
 
@@ -561,13 +542,11 @@ The evaluation code in the GraphRAG notebooks compares generated answers with re
 
 Metrics loaded/used by the implementation include:
 
-- BLEU
-- ROUGE
+
 - METEOR
 - BERTScore Precision
 - BERTScore Recall
 - BERTScore F1
-- heuristic answer relevance
 
 The notebooks contain evaluation logic for:
 
@@ -595,7 +574,7 @@ graphrag_evaluation_results.json
 
 A GPU-enabled environment is recommended for fine-tuning and efficient inference.
 
-Create an environment:
+
 
 ```bash
 python -m venv .venv
@@ -621,7 +600,6 @@ pip install \
   jupyter
 ```
 
-The notebooks contain experiment-specific installation/version cells. For strict reproduction, follow the versions recorded in the relevant notebook and use a CUDA-compatible PyTorch build.
 
 ---
 
@@ -664,70 +642,11 @@ export NEO4J_PASSWORD="..."
 export HF_TOKEN="..."
 ```
 
-For Google Colab, use Colab Secrets rather than hard-coding tokens.
 
-### Security warning
 
-Before publishing the notebooks, search all cells for:
 
-```text
-HF_TOKEN
-login(token=...)
-NEO4J_PASSWORD
-PASSWORD
-```
 
-and remove any real credential values. If a real access token has ever been committed or shared publicly, revoke it and create a new one.
 
----
-
-## Current Reproducibility Notes
-
-To make the repository fully self-contained for external reviewers/researchers, verify the following before release:
-
-1. `Dataset/data.csv` is publicly accessible.
-2. `Evaluation queries/final.json` and `final_urdu.json` are committed.
-3. The referenced `unani_train_en_ur.json` is added, or its generation procedure is documented.
-4. Neo4j credentials are replaced with environment-variable configuration.
-5. Hugging Face tokens are removed from notebook cells.
-6. Fine-tuned adapter paths are documented or adapters are released separately.
-7. Any raw dataset required to reproduce the translation stage is released where licensing permits, or its provenance/generation procedure is documented.
-8. Notebook file paths are updated to match the public repository layout.
-9. A stable repository release/tag or archival DOI is used in the manuscript.
-
----
-
-## Troubleshooting
-
-### Neo4j connection errors
-
-Confirm that:
-
-- the Neo4j instance is running,
-- `NEO4J_URI` is correct,
-- the database accepts remote connections,
-- username/password are valid,
-- firewall/network settings allow access.
-
-### Hugging Face model access
-
-Some model repositories require authentication or acceptance of model terms. Authenticate through an environment variable or notebook secret rather than embedding the token in source code.
-
-### GPU memory errors
-
-The implementation uses quantization and LoRA to reduce memory use. If memory remains insufficient:
-
-- reduce generation length,
-- reduce training batch size,
-- increase gradient accumulation,
-- use 4-bit model loading,
-- restart the runtime between large model runs.
-
-### Urdu reshaping issues
-
-The notebooks depend on `arabic-reshaper` and `python-bidi`. If an Urdu formatting API differs across installed versions, install a compatible version and verify Urdu output rendering before evaluation.
-
----
 
 ## Research Scope
 
@@ -745,28 +664,9 @@ This repository is designed to support research on:
 
 ---
 
-## Citation
 
-If you use this repository in academic work, please cite the associated paper:
 
-```bibtex
-@article{unanimedkg_graphrag,
-  title   = {GraphRAG-Enhanced Bilingual Knowledge Graph LLM for Unani Medicines},
-  author  = {Ashraf, Ayesha and Waheed, Talha and Khurshid, Khaldoon S. and Javed, Abqa and Haris, Muhammad},
-  year    = {2026},
-  note    = {Manuscript / publication details to be updated}
-}
-```
 
-Update the BibTeX entry with the final journal, volume, DOI, and publication details when available.
-
----
-
-## License
-
-A license file was not present in the supplied implementation package. Add an appropriate `LICENSE` file before public redistribution if required by your project/data/model usage conditions.
-
----
 
 ## Acknowledgment
 
